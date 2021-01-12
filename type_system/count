@@ -1,0 +1,12 @@
+
+1. Composety.k		9
+2. core-function.k	16
+3. depgraph.k		43
+4. lexpression.k	74
+5. lfunction.k		13
+6. llifetime.k		13
+7. lstatement.k 	24
+8. typrop.k		3
+
+
+sum: 195
