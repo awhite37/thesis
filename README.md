@@ -9,6 +9,7 @@ Installation instructions: https://github.com/kframework/k/releases/tag/v5.0.0-5
 ## Running Tests
 
 Kompile with Makefile, use 'krun' command to run tests
+
 example: 
 ```
 krun ../tests/t1.cl
